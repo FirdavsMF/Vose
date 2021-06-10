@@ -1,10 +1,10 @@
 import React from 'react'
-import Sidebar from './Sidebar.js'
+import Header from './components/header/header'
 
 function App() {
     return (
-      <div className="App">
-        <Sidebar />
+      <div>
+        <header/>
       </div>
     );
   }
