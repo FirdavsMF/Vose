@@ -3,7 +3,7 @@ import React from 'react'
 
 function header() {
     return (
-        <page-wraper>
+        <page-wraper class="page-wraper">
             <header className="site-header header-style-1 header-dark-1 ">
   {/* <div class="top-bar bg-primary text-black ">
           <div class="container">

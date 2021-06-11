@@ -1,12 +1,11 @@
 import React from 'react'
 import Header from './components/header/header'
-
+import slider from './components/slider/slider'
 function App() {
     return (
       <div>
-        <header/>
+        <slider/>
       </div>
     );
   }
-  
 export default App
