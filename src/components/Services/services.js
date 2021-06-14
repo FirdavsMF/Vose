@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Services() {
+export default function Services() {
     return (
-        <Services>
+        <>
             <div className="section-full p-t80 p-b50 bg-dark" style={{ backgroundImage: 'url(images/background/bg-5.png)' }}>
                 <div className="container">
                     {/* TITLE START */}
@@ -105,7 +105,6 @@ function Services() {
                     </div>
                 </div>
             </div>
-        </Services>
-    );
+        </>
+    )
 }
-export default Services

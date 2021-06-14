@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Teams() {
+export default function Team() {
     return (
-        <Teams>
+        <>
             <div className="section-full p-t80 p-b50 bg-white inner-page-padding">
                 <div className="container">
                     {/* TITLE START */}
@@ -75,8 +75,6 @@ function Teams() {
                     </div>
                 </div>
             </div>
-
-        </Teams>
+        </>
     )
 }
-export default Teams
