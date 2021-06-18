@@ -1,7 +1,7 @@
 import React from 'react'
-import Main from '../components/news/News';
+import Main from '../components/objects-page/Objects';
 
-export default function Home() {
+export default function Objects() {
     return (
         <>
             <Main />

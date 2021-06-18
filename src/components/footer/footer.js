@@ -41,7 +41,7 @@ export default function Footer() {
                             {/* ABOUT COMPANY */}
                             <div className="col-lg-3 col-md-6 col-sm-6">
                                 <div className="widget widget_about">
-                                    {/*<h4 class="widget-title">About Company</h4>*/}
+                                    {/*<h4 className="widget-title">About Company</h4>*/}
                                     <div className="logo-footer clearfix p-b15">
                                         <a href="index.html"><img src="images/icon/logo_vose.svg" alt="" /></a>
                                     </div>
@@ -49,10 +49,9 @@ export default function Footer() {
                                         чтобы дать максимально возможное качественные жилые комплексы</p>
                                     <ul className="social-icons  mt-social-links">
                                         <li><a href="#" className="fa fa-google" /></li>
-                                        <li><a href="#" className="fa fa-rss" /></li>
-                                        <li><a href="#" className="fa fa-facebook" /></li>
                                         <li><a href="#" className="fa fa-twitter" /></li>
-                                        <li><a href="#" className="fa fa-linkedin" /></li>
+                                        <li><a href="https://www.facebook.com/VoseConstruction.tj" className="fa fa-facebook" /></li>
+                                        <li><a href="https://www.instagram.com/vose_construction.tj/" className="fa fa-instagram" /></li>
                                     </ul>
                                 </div>
                             </div>
@@ -62,21 +61,21 @@ export default function Footer() {
                                     <h4 className="widget-title">Наши контакты</h4>
                                     <ul className="widget_address">
                                         <li>Адрес жк</li>
-                                        <li>vose@gmail.com</li>
-                                        <li>(+298) 012-3456-789</li>
-                                        <li>(+298) 146-6543-480</li>
+                                        <li>info@vose.tj</li>
+                                        <li>+(992) 939 55 44 41</li>
+                                        <li>+(992) 939 55 44 41</li>
                                     </ul>
                                 </div>
                             </div>
                             {/* USEFUL LINKS */}
                             <div className="col-lg-3 col-md-6 col-sm-6 footer-col-3">
                                 <div className="widget widget_services inline-links">
-                                    <h4 className="widget-title">Useful links</h4>
+                                    <h4 className="widget-title">ПОЛЕЗНЫЕ ССЫЛКИ</h4>
                                     <ul>
-                                        <li><a href="about-1.html">Карьера</a></li>
-                                        <li><a href="project-grid.html">Сотрудничество</a></li>
-                                        <li><a href="blog-grid.html">ЧЗВ</a></li>
-                                        <li><a href="contact-1.html">Связаться с нами</a></li>
+                                        <li><a href="#">Карьера</a></li>
+                                        <li><a href="#">Сотрудничество</a></li>
+                                        <li><a href="#">ЧЗВ</a></li>
+                                        <li><a href="#">Связаться с нами</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -88,37 +87,37 @@ export default function Footer() {
                                         <div className="bdr-light-blue widget-post clearfix  bdr-b-1 m-b10 p-b10">
                                             <div className="mt-post-date text-center text-uppercase text-white p-tb5">
                                                 <strong className="p-date">24</strong>
-                                                <span className="p-month">April</span>
-                                                <span className="p-year">2019</span>
+                                                <span className="p-month">Апрел</span>
+                                                <span className="p-year">2021</span>
                                             </div>
                                             <div className="mt-post-info">
                                                 <div className="mt-post-header">
-                                                    <h6 className="post-title"><a href="blog-single.html">На этих балках мы
+                                                    <h6 className="post-title"><a href="#">На этих балках мы
                                                         строим мечты.</a></h6>
                                                 </div>
                                                 <div className="mt-post-meta">
                                                     <ul>
-                                                        <li className="post-author"><i className="fa fa-user" />By Admin</li>
-                                                        <li className="post-comment"><i className="fa fa-comments" /> 28</li>
+                                                        <li className="post-author"><i className="fa fa-user" />От Админ</li>
+                                                        {/* <li className="post-comment"><i className="fa fa-comments" /> 28</li> */}
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="bdr-light-blue widget-post clearfix  bdr-b-1 m-b10 p-b10">
                                             <div className="mt-post-date text-center text-uppercase text-white p-tb5">
-                                                <strong className="p-date">30</strong>
-                                                <span className="p-month">May</span>
-                                                <span className="p-year">2019</span>
+                                                <strong className="p-date">16</strong>
+                                                <span className="p-month">Июн</span>
+                                                <span className="p-year">2021</span>
                                             </div>
                                             <div className="mt-post-info">
                                                 <div className="mt-post-header">
-                                                    <h6 className="post-title"><a href="blog-single.html">Мы будем сенсацией для
+                                                    <h6 className="post-title"><a href="#">Мы будем сенсацией для
                                                         вас в следующем ремонте</a></h6>
                                                 </div>
                                                 <div className="mt-post-meta">
                                                     <ul>
-                                                        <li className="post-author"><i className="fa fa-user" />By Admin</li>
-                                                        <li className="post-comment"><i className="fa fa-comments" /> 29</li>
+                                                        <li className="post-author"><i className="fa fa-user" />От Админ</li>
+                                                        {/* <li className="post-comment"><i className="fa fa-comments" /> 29</li> */}
                                                     </ul>
                                                 </div>
                                             </div>

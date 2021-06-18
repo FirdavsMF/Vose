@@ -10,7 +10,7 @@ export default function Services() {
                         <div className="mt-separator-outer separator-center">
                             <div className="mt-separator text-white">
                                 <h2 className="text-uppercase sep-line-one "><span className="font-weight-300 text-primary">Наши
-            </span> услуги</h2>
+                                </span> услуги</h2>
                             </div>
                         </div>
                     </div>
@@ -25,10 +25,10 @@ export default function Services() {
                                     </div>
                                     <div className="icon-content">
                                         <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Беспроцентная
-                рассрочка</h4>
+                                            рассрочка</h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning your
-                ambitions.</p>
-                                        <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
+                                            ambitions.</p>
+                                        {/* <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a> */}
                                     </div>
                                 </div>
                             </div>
@@ -40,8 +40,8 @@ export default function Services() {
                                     <div className="icon-content">
                                         <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Ипотека</h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning your
-                ambitions.</p>
-                                        <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
+                                            ambitions.</p>
+                                        {/* <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a> */}
                                     </div>
                                 </div>
                             </div>
@@ -52,10 +52,10 @@ export default function Services() {
                                     </div>
                                     <div className="icon-content">
                                         <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Частичный ремонт
-              </h4>
+                                        </h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning your
-                ambitions..</p>
-                                        <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
+                                            ambitions..</p>
+                                        {/* <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a> */}
                                     </div>
                                 </div>
                             </div>
@@ -66,10 +66,10 @@ export default function Services() {
                                     </div>
                                     <div className="icon-content">
                                         <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Ремонт под ключ
-              </h4>
+                                        </h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning your
-                ambitions.</p>
-                                        <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
+                                            ambitions.</p>
+                                        {/* <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a> */}
                                     </div>
                                 </div>
                             </div>
@@ -80,10 +80,10 @@ export default function Services() {
                                     </div>
                                     <div className="icon-content">
                                         <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Trade-in
-              </h4>
+                                        </h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning your
-                ambitions.</p>
-                                        <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
+                                            ambitions.</p>
+                                        {/* <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a> */}
                                     </div>
                                 </div>
                             </div>
@@ -94,10 +94,10 @@ export default function Services() {
                                     </div>
                                     <div className="icon-content">
                                         <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Скоро
-              </h4>
+                                        </h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning your
-                ambitions.</p>
-                                        <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
+                                            ambitions.</p>
+                                        {/* <a href="#" className="site-button-link" data-hover="ПОДРОБНЕЕ">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a> */}
                                     </div>
                                 </div>
                             </div>

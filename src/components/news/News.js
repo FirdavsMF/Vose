@@ -31,15 +31,15 @@ export default function News() {
                                             <ul>
                                                 <li className="post-date"> <i className="fa fa-calendar" /><strong>17</strong>
                                                     <span>Feb</span> </li>
-                                                <li className="post-author"><i className="fa fa-user" /><a href="#">By <span>Firdavs</span></a> </li>
-                                                <li className="post-comment"><i className="fa fa-comments" /> <a href="#">0 Comments</a> </li>
+                                                <li className="post-author"><i className="fa fa-user" /><a href="#">От <span>Админ</span></a> </li>
+                                                {/* <li className="post-comment"><i className="fa fa-comments" /> <a href="#">0 Comments</a> </li> */}
                                             </ul>
                                         </div>
                                         <div className="mt-post-text">
                                             <p>То же самое, что сказать, избегая тяжелого труда и боли, эти случаи
                                                 совершенно просты.</p>
                                         </div>
-                                        <div className="clearfix">
+                                        {/* <div className="clearfix">
                                             <div className="mt-post-readmore pull-left">
                                                 <a href="#" title="ПОДРОБНЕЕ" rel="bookmark" className="site-button-link">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
                                             </div>
@@ -52,7 +52,7 @@ export default function News() {
                                                     <li><a href="#" className="fa fa-instagram" /></li>
                                                 </ul>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
@@ -70,15 +70,15 @@ export default function News() {
                                             <ul>
                                                 <li className="post-date"> <i className="fa fa-calendar" /><strong>16</strong>
                                                     <span>Jan</span> </li>
-                                                <li className="post-author"><i className="fa fa-user" /><a href="#">By <span>John</span></a> </li>
-                                                <li className="post-comment"><i className="fa fa-comments" /> <a href="#">0 Comments</a> </li>
+                                                <li className="post-author"><i className="fa fa-user" /><a href="#">От <span>Админ</span></a> </li>
+                                                {/* <li className="post-comment"><i className="fa fa-comments" /> <a href="#">0 Comments</a> </li> */}
                                             </ul>
                                         </div>
                                         <div className="mt-post-text">
                                             <p>Мы сделаем твой
                                                 следующий проект, потому что никому не нужен!</p>
                                         </div>
-                                        <div className="clearfix">
+                                        {/* <div className="clearfix">
                                             <div className="mt-post-readmore pull-left">
                                                 <a href="#" title="ПОДРОБНЕЕ" rel="bookmark" className="site-button-link">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
                                             </div>
@@ -91,7 +91,7 @@ export default function News() {
                                                     <li><a href="#" className="fa fa-instagram" /></li>
                                                 </ul>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
@@ -109,14 +109,14 @@ export default function News() {
                                             <ul>
                                                 <li className="post-date"> <i className="fa fa-calendar" /><strong>14</strong>
                                                     <span>Feb</span> </li>
-                                                <li className="post-author"><i className="fa fa-user" /><a href="#">By <span>John</span></a> </li>
-                                                <li className="post-comment"><i className="fa fa-comments" /> <a href="#">0 Comments</a> </li>
+                                                <li className="post-author"><i className="fa fa-user" /><a href="#">От <span>Админ</span></a> </li>
+                                                {/* <li className="post-comment"><i className="fa fa-comments" /> <a href="#">0 Comments</a> </li> */}
                                             </ul>
                                         </div>
                                         <div className="mt-post-text">
                                             <p>Помогаем вам и вашему дому лучше познакомиться.</p>
                                         </div>
-                                        <div className="clearfix">
+                                        {/* <div className="clearfix">
                                             <div className="mt-post-readmore pull-left">
                                                 <a href="#" title="ПОДРОБНЕЕ" rel="bookmark" className="site-button-link">ПОДРОБНЕЕ<i className="fa fa-angle-right arrow-animation" /></a>
                                             </div>
@@ -129,7 +129,7 @@ export default function News() {
                                                     <li><a href="#" className="fa fa-instagram" /></li>
                                                 </ul>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
@@ -137,7 +137,7 @@ export default function News() {
                     </div>
                 </div>
                 <div className="hilite-title text-right p-r50 text-uppercase hilite-dark">
-                    <strong>Blog</strong>
+                    <strong>БЛОГ</strong>
                 </div>
             </div>
         </>

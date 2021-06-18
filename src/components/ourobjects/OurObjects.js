@@ -29,13 +29,13 @@ export default function OurObjects() {
                         {/* COLUMNS 1 */}
                         <div className="masonry-item cat-1  col-md-4 col-sm-6 m-b30">
                             <div className="image-effect-two hover-shadow">
-                                <img src="images/projects/portrait/pic1.jpg" alt="" />
+                                <img src="images/projects/portrait/1.jpg" alt="" />
                                 <div className="figcaption">
                                     <h4 className="mt-tilte">Строительство стиля жизни</h4>
                                     <p>Мы так заняты тем, что нас ждет впереди, что не тратим время на то, чтобы
-              наслаждаться тем, где мы находимся.</p>
+                                        наслаждаться тем, где мы находимся.</p>
                                     <a href="#" className="read-more site-button btn-effect">ПОДРОБНЕЕ</a>
-                                    <a className="mfp-link" href="images/projects/portrait/pic4.jpg">
+                                    <a className="mfp-link" href="images/projects/portrait/1.jpg">
                                         <i className="fa fa-arrows-alt" />
                                     </a>
                                 </div>
@@ -44,13 +44,13 @@ export default function OurObjects() {
                         {/* COLUMNS 2 */}
                         <div className="masonry-item cat-2 col-md-4 col-sm-6 m-b30">
                             <div className="image-effect-two hover-shadow">
-                                <img src="images/projects/portrait/pic2.jpg" alt="" />
+                                <img src="images/projects/portrait/2.jpg" alt="" />
                                 <div className="figcaption">
                                     <h4 className="mt-tilte">Центральное городское здание</h4>
                                     <p>Мы так заняты тем, что нас ждет впереди, что не тратим время на то, чтобы
-              наслаждаться тем, где мы находимся.</p>
+                                        наслаждаться тем, где мы находимся.</p>
                                     <a href="#" className="read-more site-button btn-effect">ПОДРОБНЕЕ</a>
-                                    <a className="mfp-link" href="images/projects/portrait/pic9.jpg">
+                                    <a className="mfp-link" href="images/projects/portrait/2.jpg">
                                         <i className="fa fa-arrows-alt" />
                                     </a>
                                 </div>
@@ -59,68 +59,24 @@ export default function OurObjects() {
                         {/* COLUMNS 3 */}
                         <div className="masonry-item cat-3 col-md-4 col-sm-6 m-b30">
                             <div className="image-effect-two hover-shadow">
-                                <img src="images/projects/portrait/pic3.jpg" alt="" />
+                                <img src="images/projects/portrait/2.jpg" alt="" />
                                 <div className="figcaption">
-                                    <h4 className="mt-tilte">Натан Брук Хаус</h4>
+                                    <h4 className="mt-tilte">Скоро</h4>
                                     <p>Мы так заняты тем, что нас ждет впереди, что не тратим время на то, чтобы
-              наслаждаться тем, где мы находимся.</p>
-                                    <a href="#" className="read-more site-button btn-effect">ПОДРОБНЕЕ</a>
+                                        наслаждаться тем, где мы находимся.</p>
+                                    {/* <a href="#" className="read-more site-button btn-effect">ПОДРОБНЕЕ</a>
                                     <a className="mfp-link" href="images/projects/portrait/pic6.jpg">
                                         <i className="fa fa-arrows-alt" />
-                                    </a>
+                                    </a> */}
                                 </div>
                             </div>
                         </div>
-                        {/* COLUMNS 4 */}
-                        <div className="masonry-item cat-4 col-md-4 col-sm-6 m-b30">
-                            <div className="image-effect-two hover-shadow">
-                                <img src="images/projects/portrait/pic4.jpg" alt="" />
-                                <div className="figcaption">
-                                    <h4 className="mt-tilte">Metropolitan Museum.</h4>
-                                    <p>Мы так заняты тем, что нас ждет впереди, что не тратим время на то, чтобы
-              наслаждаться тем, где мы находимся.</p>
-                                    <a href="#" className="read-more site-button btn-effect">ПОДРОБНЕЕ</a>
-                                    <a className="mfp-link" href="images/projects/portrait/pic5.jpg">
-                                        <i className="fa fa-arrows-alt" />
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        {/* COLUMNS 5 */}
-                        <div className="masonry-item cat-5 col-md-4 col-sm-6 m-b30">
-                            <div className="image-effect-two hover-shadow">
-                                <img src="images/projects/portrait/pic5.jpg" alt="" />
-                                <div className="figcaption">
-                                    <h4 className="mt-tilte">Семейная резиденция Art</h4>
-                                    <p>Мы так заняты тем, что нас ждет впереди, что не тратим время на то, чтобы
-              наслаждаться тем, где мы находимся.</p>
-                                    <a href="#" className="read-more site-button btn-effect">ПОДРОБНЕЕ</a>
-                                    <a className="mfp-link" href="images/projects/portrait/pic7.jpg">
-                                        <i className="fa fa-arrows-alt" />
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        {/* COLUMNS 6 */}
-                        <div className="masonry-item cat-4 col-md-4 col-sm-6 m-b30">
-                            <div className="image-effect-two hover-shadow">
-                                <img src="images/projects/portrait/pic6.jpg" alt="аа" />
-                                <div className="figcaption">
-                                    <h4 className="mt-tilte">Офисные перегородки</h4>
-                                    <p>Мы так заняты тем, что нас ждет впереди, что не тратим время на то, чтобы
-              наслаждаться тем, где мы находимся.</p>
-                                    <a href="#" className="read-more site-button btn-effect">ПОДРОБНЕЕ</a>
-                                    <a className="mfp-link" href="images/projects/portrait/pic8.jpg">
-                                        <i className="fa fa-arrows-alt" />
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                     {/* GALLERY CONTENT END */}
-                    <div className="m-t50 text-center">
+                    {/* <div className="m-t50 text-center">
                         <a href="#" className="site-button btn-effect">Подробнее</a>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </>

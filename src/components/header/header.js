@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Header() {
     return (
@@ -10,9 +11,9 @@ export default function Header() {
                             <div className="container">
                                 <div className="logo-header">
                                     <div className="logo-header-inner logo-header-one">
-                                        <a href="index.html">
+                                        <Link to="/">
                                             <img src="images/icon/logo_vose.svg" alt="" />
-                                        </a>
+                                        </Link>
                                     </div>
                                 </div>
                                 {/* NAV Toggle Button */}
@@ -43,39 +44,38 @@ export default function Header() {
                                                 <div className="mt-icon-box-wraper center p-b30">
                                                     <div className="icon-xs m-b20 scale-in-center"><i className="fa fa-phone" /></div>
                                                     <div className="icon-content">
-                                                        <h5 className="m-t0 font-weight-500">Phone number</h5>
-                                                        <p>(075) 123-7654</p>
+                                                        <h5 className="m-t0 font-weight-500">Телефон</h5>
+                                                        <p>+(992) 939 55 44 414</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper center p-b30">
                                                     <div className="icon-xs m-b20 scale-in-center"><i className="fa fa-envelope" />
                                                     </div>
                                                     <div className="icon-content">
-                                                        <h5 className="m-t0 font-weight-500">Email address</h5>
-                                                        <p>7xthemehelp@gmail.com</p>
+                                                        <h5 className="m-t0 font-weight-500">Email</h5>
+                                                        <p>info@vose.tj</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper center p-b30">
                                                     <div className="icon-xs m-b20 scale-in-center"><i className="fa fa-map-marker" />
                                                     </div>
                                                     <div className="icon-content">
-                                                        <h5 className="m-t0 font-weight-500">Address info</h5>
-                                                        <p>201 Liverpool Street, Suite 721, London</p>
+                                                        <h5 className="m-t0 font-weight-500">Информация об адресе</h5>
+                                                        <p>Кӯчаи Асадулло Ғуломов, маҳаллаи <br />
+                                                            83, ноҳияи Синои Шаҳри Душанбе</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div className="full-social-bg">
                                                 <ul>
-                                                    <li><a href="#" className="facebook"><i className="fa fa-facebook" /></a></li>
-                                                    <li><a href="#" className="google"><i className="fa fa-google" /></a></li>
-                                                    <li><a href="#" className="instagram"><i className="fa fa-instagram" /></a></li>
-                                                    <li><a href="#" className="tumblr"><i className="fa fa-tumblr" /></a></li>
+                                                    <li><a href="https://www.facebook.com/VoseConstruction.tj" className="facebook"><i className="fa fa-facebook" /></a></li>
+                                                    <li><a href="https://www.instagram.com/vose_construction.tj/" className="instagram"><i className="fa fa-instagram" /></a></li>
                                                     <li><a href="#" className="twitter"><i className="fa fa-twitter" /></a></li>
                                                     <li><a href="#" className="youtube"><i className="fa fa-youtube" /></a></li>
                                                 </ul>
                                             </div>
                                             <div className="text-center">
-                                                <h4 className="font-weight-600">© 2019 7xtheme</h4>
+                                                <h4 className="font-weight-600">© 2021 Vose Construction</h4>
                                             </div>
                                         </div>
                                     </div>
@@ -94,8 +94,8 @@ export default function Header() {
                                 <div className="header-nav navbar-collapse collapse  nav-dark">
                                     <ul className=" nav navbar-nav">
                                         <li className="active">
-                                            <a href="#">Главная</a>
-                                            <ul className="sub-menu">
+                                            <Link to="/">Главная</Link>
+                                            {/* <ul className="sub-menu">
                                                 <li>
                                                     <a href="index.html">Home-1</a>
                                                 </li>
@@ -108,17 +108,17 @@ export default function Header() {
                                                 <li>
                                                     <a href="index-4.html">Home-4</a>
                                                 </li>
-                                            </ul>
+                                            </ul> */}
                                         </li>
                                         <li>
-                                            <a href="about-1.html">О нас</a>
+                                            <Link to="/about">О нас</Link>
                                         </li>
                                         <li>
-                                            <a href="services.html">Объекты</a>
+                                            <a href="/objects">Объекты</a>
                                         </li>
                                         <li>
                                             <a href="#">В продаже</a>
-                                            <ul className="sub-menu">
+                                            {/* <ul className="sub-menu">
                                                 <li>
                                                     <a href="#">Blog</a>
                                                     <ul className="sub-menu has-child">
@@ -136,16 +136,16 @@ export default function Header() {
                                                 <li>
                                                     <a href="contact-1.html">Contact us</a>
                                                 </li>
-                                            </ul>
+                                            </ul> */}
                                         </li>
                                         <li>
                                             <a href="#">Акции</a>
-                                            <ul className="sub-menu">
+                                            {/* <ul className="sub-menu">
                                                 <li><a href="post-image.html">Post Image</a></li>
                                                 <li><a href="post-gallery.html">Post Gallery</a></li>
                                                 <li><a href="post-video.html">Post Video</a></li>
                                                 <li><a href="post-right-sidebar.html">Post Right Sidebar</a></li>
-                                            </ul>
+                                            </ul> */}
                                         </li>
                                     </ul>
                                 </div>

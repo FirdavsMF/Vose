@@ -3,7 +3,7 @@ import React from 'react'
 export default function Slider() {
     return (
         <>
-            <div class="page-content">
+            <div className="page-content">
                 <div id="welcome_wrapper" className="rev_slider_wrapper fullscreen-container" data-alias="goodnews-header" data-source="gallery" style={{ background: '#eeeeee', padding: '0px' }}>
                     <div id="slider-video" className="rev_slider fullscreenbanner" style={{ display: 'none' }} data-version="5.4.3.1">
                         <ul>
@@ -70,7 +70,7 @@ export default function Slider() {
                                 <div className="m-about-containt text-black p-t80">
                                     <div className="m-about-years bg-moving" style={{ backgroundImage: 'url(images/background/line.png)' }}>
                                         <span className="text-primary large-title">5</span>
-                                        <span className="large-title-info">лет успешный проектов</span>
+                                        <span className="large-title-info">ЛЕТ УСПЕШНЫХ ПРОЕКТОВ</span>
                                     </div>
                                     <h3 className="font-weight-600">Повышение качества жизни за счет комплексного - единого
                                         подхода к работе.</h3>
@@ -79,14 +79,14 @@ export default function Slider() {
                                         долгосрочной основе. Именно таким мы и видим нашу миссию.
                                     </p>
                                     <div className="author-info p-t20">
-                                        {/* <div class="author-signature">
+                                        {/* <div className="author-signature">
                                       <img src="images/Signature+Black.png" alt="Signature" width="150" />
                                   </div> */}
                                         <div className="author-name">
                                             <h4 className="m-t0">Vose Construction</h4>
                                             {/* <p>Architecture &amp; Founder</p> */}
                                         </div>
-                                        <a href="#" className="site-button btn-effect m-b15"><span>Подробнее</span></a>
+                                        {/* <a href="#" className="site-button btn-effect m-b15"><span>Подробнее</span></a> */}
                                     </div>
                                 </div>
                             </div>

@@ -24,14 +24,14 @@ export default function Team() {
                                         <h4>Музаффар юнусзода</h4>
                                         <h5>Designer / архитектор</h5>
                                         <p>Что еще хуже, что у каждого своя цена, или что цена всегда такая низкая</p>
-                                        <div className="icons">
+                                        {/* <div className="icons">
                                             <a href="#"><i className="fa fa-facebook" /></a>
                                             <a href="#"> <i className="fa fa-twitter" /></a>
                                             <a href="#"> <i className="fa fa-instagram" /></a>
                                             <a href="#"><i className="fa fa-rss" /></a>
                                             <a href="#"> <i className="fa fa-youtube" /></a>
                                             <a href="#"> <i className="fa fa-linkedin" /></a>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
@@ -42,14 +42,14 @@ export default function Team() {
                                         <h4>Фирдавс Намозов</h4>
                                         <h5>Раиси шуьбаи маркетинг</h5>
                                         <p>Что еще хуже, что у каждого своя цена, или что цена всегда такая низкая</p>
-                                        <div className="icons">
+                                        {/* <div className="icons">
                                             <a href="#"><i className="fa fa-facebook" /></a>
                                             <a href="#"> <i className="fa fa-twitter" /></a>
                                             <a href="#"> <i className="fa fa-instagram" /></a>
                                             <a href="#"><i className="fa fa-rss" /></a>
                                             <a href="#"> <i className="fa fa-youtube" /></a>
                                             <a href="#"> <i className="fa fa-linkedin" /></a>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
@@ -60,14 +60,14 @@ export default function Team() {
                                         <h4>Гани Ганиев</h4>
                                         <h5>Раиси шуьбаи фуруш</h5>
                                         <p>Что еще хуже, что у каждого своя цена, или что цена всегда такая низкая</p>
-                                        <div className="icons">
+                                        {/* <div className="icons">
                                             <a href="#"><i className="fa fa-facebook" /></a>
                                             <a href="#"> <i className="fa fa-twitter" /></a>
                                             <a href="#"> <i className="fa fa-instagram" /></a>
                                             <a href="#"><i className="fa fa-rss" /></a>
                                             <a href="#"> <i className="fa fa-youtube" /></a>
                                             <a href="#"> <i className="fa fa-linkedin" /></a>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
